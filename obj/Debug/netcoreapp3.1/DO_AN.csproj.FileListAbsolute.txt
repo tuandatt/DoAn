@@ -1,0 +1,11 @@
+D:\Do An\DO_AN\obj\Debug\netcoreapp3.1\DO_AN.csprojAssemblyReference.cache
+D:\Do An\DO_AN\obj\Debug\netcoreapp3.1\DO_AN.AssemblyInfoInputs.cache
+D:\Do An\DO_AN\obj\Debug\netcoreapp3.1\DO_AN.AssemblyInfo.cs
+D:\Do An\DO_AN\bin\Debug\netcoreapp3.1\DO_AN.exe
+D:\Do An\DO_AN\bin\Debug\netcoreapp3.1\DO_AN.deps.json
+D:\Do An\DO_AN\bin\Debug\netcoreapp3.1\DO_AN.runtimeconfig.json
+D:\Do An\DO_AN\bin\Debug\netcoreapp3.1\DO_AN.runtimeconfig.dev.json
+D:\Do An\DO_AN\bin\Debug\netcoreapp3.1\DO_AN.dll
+D:\Do An\DO_AN\bin\Debug\netcoreapp3.1\DO_AN.pdb
+D:\Do An\DO_AN\obj\Debug\netcoreapp3.1\DO_AN.dll
+D:\Do An\DO_AN\obj\Debug\netcoreapp3.1\DO_AN.pdb
